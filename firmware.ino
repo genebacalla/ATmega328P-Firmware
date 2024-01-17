@@ -1,3 +1,8 @@
+// Firmware for design course entitled "Automatic Parking Logging Notification using ATmega328P and GSM Technology".
+// Mapua University
+// Author: Gene Lorenzo Bacalla
+
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include <SoftwareSerial.h>
